@@ -10,7 +10,7 @@ Starting from the left the arch logo can be changed according to your operating 
 The spotify bar reads the music being played and displays it,Also clicking on it can triggers spotify to open it if it's not.
 
 On the right there's a cava (Cross-platform Audio Visualizer) implemented into the bar itself written in python. Adding to that i created a custom script that helps the user read the mic volume and muting it by clicking on it.
-
+And there's a python script that shows the weather condition according to your city.
 ![2023-08-04_16-38-12](https://github.com/husseinhareb/dotfiles--Awesome-/assets/88323940/e2f4d879-d2cd-4253-8b5e-590fae4aed2c)
 
 An aesthetic rofi and cava configuration that suits the theme and the wallpaper.
@@ -26,3 +26,5 @@ You should find all the configurations needed in this repo.
 Note:If the icons didn't load try installing Symbols Nerd Fonts
 
 Note:Don't forget to make the bash files executable by using
+
+Note:You should add your city and an API key in the python script, you can get one for free from [here](https://openweathermap.org/) 
