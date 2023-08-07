@@ -17,7 +17,7 @@ An aesthetic rofi and cava configuration that suits the theme and the wallpaper.
 
 ![2023-08-04_13-19-56](https://github.com/husseinhareb/dotfiles--Awesome-/assets/88323940/47ee972e-d128-4e69-a40b-9e5e9f349b26)
 
-Adding to that i created a sweet animations using a picom fork [picom-pijulius](https://github.com/pijulius/picom) that can be seen on reddit [here].(https://www.reddit.com/r/unixporn/comments/15hxhdo/awesome_my_first_awesomewm_rice/?utm_source=share&utm_medium=web2x&context=3)
+Adding to that i created a sweet animations using a picom fork [picom-pijulius](https://github.com/pijulius/picom) that can be seen on reddit [here](https://www.reddit.com/r/unixporn/comments/15hxhdo/awesome_my_first_awesomewm_rice/?utm_source=share&utm_medium=web2x&context=3).
 
 The terminal used in this picture is my main one which is kitty i created a roundness to the windows using picom.
 
