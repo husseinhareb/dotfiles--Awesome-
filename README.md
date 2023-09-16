@@ -25,6 +25,6 @@ You should find all the configurations needed in this repo.
 
 Note:If the icons didn't load try installing Symbols Nerd Fonts.
 
-Note:Don't forget to make the bash files executable by using.
+Note:Don't forget to make the bash files executable by using  chmod +x /path/to/file.
 
-Note:You should add your city and an API key in the python script, you can get one for free from [here](https://openweathermap.org/) .
+Note:You should add your city and an API key in the python script for the weather, you can get one for free from [here](https://openweathermap.org/) .
