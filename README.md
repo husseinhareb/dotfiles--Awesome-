@@ -1,5 +1,5 @@
 # dotfiles--Awesome-
-Awesome and more on my Linux
+Awesome configuration and more on my Linux.
 
 ![2023-08-04_13-22-51](https://github.com/husseinhareb/dotfiles--Awesome-/assets/88323940/b4c9ad51-50a4-48bd-9d38-68f132e8ea65)
 
